@@ -11,7 +11,7 @@ An autonomous, sensor-driven irrigation system built with MATLAB and the Grove B
 - **Reactive Control:** Automatically waters plants when soil is dry.
 - **Air Quality Integration:** Adjusts watering bursts based on $eCO_2$ levels (using SGP30) to prevent fungal growth in high $CO_2$ environments.
 - **Real-time Telemetry:** Live animated graphs of moisture levels in MATLAB.
-- **Data Logging:** Automatically records moisture (V and %), $eCO_2$ levels, and system status to `moisture_log.csv` for later analysis.
+- **Data Logging:** Automatically records moisture (V and %), $eCO_2$ levels, and system status to `moisture_log.csv` (see `sample_moisture_log.csv` for an example).
 - **Safety First:** Dedicated physical Emergency Stop button.
 - **Calibration-Ready:** Includes scripts for mapping sensor voltage to moisture percentages.
 
