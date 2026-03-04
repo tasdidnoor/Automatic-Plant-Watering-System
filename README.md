@@ -6,7 +6,6 @@ An autonomous, sensor-driven irrigation system built with MATLAB and the Grove B
 ![Screenshot 1](https://raw.githubusercontent.com/tasdidnoor/Assets/main/Plant%20Watering/README.png)
 ![Screenshot 2](https://raw.githubusercontent.com/tasdidnoor/Assets/main/Plant%20Watering/README2.png)
 ![Screenshot 3](https://raw.githubusercontent.com/tasdidnoor/Assets/main/Plant%20Watering/README3.png)
-![Screenshot 4](https://raw.githubusercontent.com/tasdidnoor/Assets/main/Plant%20Watering/README.png)
 
 ## Features
 - **Reactive Control:** Automatically waters plants when soil is dry.
